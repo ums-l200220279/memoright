@@ -12,7 +12,7 @@ Git untuk version control
 sh
 Copy
 Edit
-git clone https://github.com/username/memoright.git
+git clone https://github.com/ums-L200220279/memoright.git
 cd memoright
 2️⃣ Instalasi Dependencies
 Gunakan salah satu dari perintah berikut sesuai package manager yang digunakan:
